@@ -7,6 +7,11 @@ Open the 'ZombiePandemic.nlogo' using Netlogo(links provided below) and run the 
 * Setup 
 * Go(Forever)
 
+## How to check if the app is running?
+Here is an example screen grab that displays final outcome of the running application.
+
+<img width="647" alt="Capture" src="https://user-images.githubusercontent.com/91548582/143684448-37c6a798-3f79-4b39-9564-200037cfbbf2.PNG">
+
 
 ## Useful Resources
 
